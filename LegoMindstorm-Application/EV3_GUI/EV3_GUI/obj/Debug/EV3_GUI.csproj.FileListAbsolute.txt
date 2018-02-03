@@ -1,0 +1,45 @@
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.exe.config
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.exe
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.pdb
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csprojResolveAssemblyReference.cache
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.Properties.Resources.resources
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csproj.GenerateResource.Cache
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csproj.CoreCompileInputs.cache
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.exe
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.pdb
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.Form.resources
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3MessengerLib.dll
+E:\Study\Fis\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3MessengerLib.xml
+F:\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.exe.config
+F:\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.exe
+F:\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.pdb
+F:\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3MessengerLib.xml
+F:\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csprojResolveAssemblyReference.cache
+F:\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.Form.resources
+F:\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.Properties.Resources.resources
+F:\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csproj.GenerateResource.Cache
+F:\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csproj.CoreCompileInputs.cache
+F:\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.exe
+F:\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.pdb
+C:\Users\david\Desktop\New folder\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.exe.config
+C:\Users\david\Desktop\New folder\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.exe
+C:\Users\david\Desktop\New folder\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.pdb
+C:\Users\david\Desktop\New folder\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3MessengerLib.xml
+C:\Users\david\Desktop\New folder\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\New folder\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.Form.resources
+C:\Users\david\Desktop\New folder\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.Properties.Resources.resources
+C:\Users\david\Desktop\New folder\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\New folder\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\New folder\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.exe
+C:\Users\david\Desktop\New folder\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.pdb
+C:\Users\nguye\Downloads\EV3_2018_01_22_17_00\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.exe.config
+C:\Users\nguye\Downloads\EV3_2018_01_22_17_00\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.exe
+C:\Users\nguye\Downloads\EV3_2018_01_22_17_00\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3_GUI.pdb
+C:\Users\nguye\Downloads\EV3_2018_01_22_17_00\LegoMindstorm-Application\EV3_GUI\EV3_GUI\bin\Debug\EV3MessengerLib.xml
+C:\Users\nguye\Downloads\EV3_2018_01_22_17_00\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Downloads\EV3_2018_01_22_17_00\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.Form.resources
+C:\Users\nguye\Downloads\EV3_2018_01_22_17_00\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.Properties.Resources.resources
+C:\Users\nguye\Downloads\EV3_2018_01_22_17_00\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csproj.GenerateResource.Cache
+C:\Users\nguye\Downloads\EV3_2018_01_22_17_00\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\EV3_2018_01_22_17_00\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.exe
+C:\Users\nguye\Downloads\EV3_2018_01_22_17_00\LegoMindstorm-Application\EV3_GUI\EV3_GUI\obj\Debug\EV3_GUI.pdb
